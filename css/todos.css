@@ -1,0 +1,39 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: serif;
+}
+
+.navigator {
+  text-align: right;
+  float: left;
+  margin-top: 10%;
+  line-height: 1.5em;
+  font-size: 1.15em;
+  margin-right: 5%;
+  font-weight: lighter;
+  width: 15%;
+}
+
+.main {
+  text-align: justify;
+  display: inline-block;
+  float: right;
+  width: 80%;
+}
+
+a {
+  color: thistle;
+}
+
+a:hover {
+  color: cornflowerblue;
+}
+
+a:visited {
+  color:lightblue;
+}
+
+img {
+  background-color: #212121;
+}
